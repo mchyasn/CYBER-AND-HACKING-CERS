@@ -39,6 +39,8 @@ A hands-on portfolio of 20+ completed Udemy certifications in Ethical Hacking, L
 - Software Defined Radio (SDR++)
 - GSM/SS7/5G Wireless Networks
 
+- tools.md – Tools Used in My Cybersecurity Learning Labs Tools Used [in Labs.md](https://github.com/mchyasn/CYBER-AND-HACKING-CERS/blob/a91bd785bd280d12855c88ebe65d233447af00fd/Tools%20Used%20in%20Labs.md)
+
 
 
 ---
