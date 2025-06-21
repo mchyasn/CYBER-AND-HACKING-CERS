@@ -39,16 +39,9 @@ A hands-on portfolio of 20+ completed Udemy certifications in Ethical Hacking, L
 - Software Defined Radio (SDR++)
 - GSM/SS7/5G Wireless Networks
 
-## 📸 Screenshots
 
-See `./screenshots/` for practical examples.
-
-## 📁 Resources
-
-- [Tools.md](resources/tools.md): Full list of tools used in labs
-- [Course Links](resources/course-links.md): Links to Udemy course certificates
 
 ---
 
-**📌 This repository is part of a larger Cybersecurity Home Lab project. Check it out [here](https://github.com/YOUR-HOMELAB-REPO).**
+**📌 This repository is part of a larger Cybersecurity Home Lab project. Check it out [here](https://github.com/mchyasn/Cybersecurity-Home-Lab)
 
